@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T16:24:49 BDT" name="Lazada Automation" finished-at="2023-10-11T16:27:56 BDT" duration-ms="186528">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T16:24:49 BDT" name="Home Page Tests" finished-at="2023-10-11T16:25:36 BDT" duration-ms="46539">
+      <class name="AutomationLazada.tests.LazadaHomePageTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:AutomationLazada.tests.LazadaHomePageTest@4d1bf319]" started-at="2023-10-11T16:24:50 BDT" name="openUrl" finished-at="2023-10-11T16:24:52 BDT" duration-ms="2176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="loadingTest()[pri:-1, instance:AutomationLazada.tests.LazadaHomePageTest@4d1bf319]" started-at="2023-10-11T16:24:52 BDT" name="loadingTest" finished-at="2023-10-11T16:24:52 BDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadingTest -->
+        <test-method signature="NavManuTest()[pri:1, instance:AutomationLazada.tests.LazadaHomePageTest@4d1bf319]" started-at="2023-10-11T16:24:52 BDT" name="NavManuTest" finished-at="2023-10-11T16:24:59 BDT" duration-ms="7530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavManuTest -->
+        <test-method signature="SuperChargeOutBusinessCountryManuTest()[pri:1, instance:AutomationLazada.tests.LazadaHomePageTest@4d1bf319]" started-at="2023-10-11T16:24:59 BDT" name="SuperChargeOutBusinessCountryManuTest" finished-at="2023-10-11T16:25:29 BDT" duration-ms="29512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuperChargeOutBusinessCountryManuTest -->
+        <test-method signature="ExplorJobsButton()[pri:2, instance:AutomationLazada.tests.LazadaHomePageTest@4d1bf319]" started-at="2023-10-11T16:25:29 BDT" name="ExplorJobsButton" finished-at="2023-10-11T16:25:35 BDT" duration-ms="6582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExplorJobsButton -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:AutomationLazada.tests.LazadaHomePageTest@4d1bf319]" started-at="2023-10-11T16:25:35 BDT" name="afterClass" finished-at="2023-10-11T16:25:36 BDT" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AutomationLazada.tests.LazadaHomePageTest -->
+    </test> <!-- Home Page Tests -->
+    <test started-at="2023-10-11T16:25:36 BDT" name="Careers Page Tests" finished-at="2023-10-11T16:26:39 BDT" duration-ms="62948">
+      <class name="AutomationLazada.tests.CareersPageTests">
+        <test-method is-config="true" signature="CareersPageTest()[pri:0, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:25:36 BDT" name="CareersPageTest" finished-at="2023-10-11T16:25:36 BDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CareersPageTest -->
+        <test-method signature="CheckTitle()[pri:-1, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:25:36 BDT" name="CheckTitle" finished-at="2023-10-11T16:25:36 BDT" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTitle -->
+        <test-method signature="SearchOparetion1()[pri:1, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:25:36 BDT" name="SearchOparetion1" finished-at="2023-10-11T16:25:41 BDT" duration-ms="5299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOparetion1 -->
+        <test-method signature="SearchOparetion2()[pri:1, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:25:41 BDT" name="SearchOparetion2" finished-at="2023-10-11T16:25:50 BDT" duration-ms="8383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOparetion2 -->
+        <test-method signature="SearchOparetion3()[pri:1, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:25:50 BDT" name="SearchOparetion3" finished-at="2023-10-11T16:25:58 BDT" duration-ms="8272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOparetion3 -->
+        <test-method signature="SearchOparetion4()[pri:1, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:25:58 BDT" name="SearchOparetion4" finished-at="2023-10-11T16:26:10 BDT" duration-ms="12175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOparetion4 -->
+        <test-method signature="PaginationButtonDawn()[pri:2, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:26:10 BDT" name="PaginationButtonDawn" finished-at="2023-10-11T16:26:16 BDT" duration-ms="6284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PaginationButtonDawn -->
+        <test-method signature="PaginationUperButtons()[pri:2, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:26:16 BDT" name="PaginationUperButtons" finished-at="2023-10-11T16:26:29 BDT" duration-ms="12468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PaginationUperButtons -->
+        <test-method signature="JobDetails()[pri:3, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:26:29 BDT" name="JobDetails" finished-at="2023-10-11T16:26:39 BDT" duration-ms="9881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JobDetails -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:AutomationLazada.tests.CareersPageTests@34bde49d]" started-at="2023-10-11T16:26:39 BDT" name="afterClass" finished-at="2023-10-11T16:26:39 BDT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AutomationLazada.tests.CareersPageTests -->
+    </test> <!-- Careers Page Tests -->
+    <test started-at="2023-10-11T16:26:39 BDT" name="Application Page Tests" finished-at="2023-10-11T16:27:56 BDT" duration-ms="77010">
+      <class name="AutomationLazada.tests.LazadaHomePageTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:AutomationLazada.tests.LazadaHomePageTest@4d1bf319]" started-at="2023-10-11T16:24:46 BDT" name="start" finished-at="2023-10-11T16:24:49 BDT" duration-ms="3484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="close()[pri:0, instance:AutomationLazada.tests.LazadaHomePageTest@4d1bf319]" started-at="2023-10-11T16:27:56 BDT" name="close" finished-at="2023-10-11T16:27:57 BDT" duration-ms="580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- AutomationLazada.tests.LazadaHomePageTest -->
+      <class name="AutomationLazada.tests.ApplicationPageTests">
+        <test-method signature="FirstNameFieldCheck()[pri:-1, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:26:39 BDT" name="FirstNameFieldCheck" finished-at="2023-10-11T16:26:48 BDT" duration-ms="9507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstNameFieldCheck -->
+        <test-method is-config="true" signature="ApplicationPageTest()[pri:0, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:26:39 BDT" name="ApplicationPageTest" finished-at="2023-10-11T16:26:39 BDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplicationPageTest -->
+        <test-method signature="LastNameFieldCheck()[pri:0, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:26:48 BDT" name="LastNameFieldCheck" finished-at="2023-10-11T16:26:58 BDT" duration-ms="9403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LastNameFieldCheck -->
+        <test-method signature="EmailFieldCheck()[pri:1, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:26:58 BDT" name="EmailFieldCheck" finished-at="2023-10-11T16:27:08 BDT" duration-ms="9647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailFieldCheck -->
+        <test-method signature="MoblieNumberFieldCheck()[pri:2, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:27:08 BDT" name="MoblieNumberFieldCheck" finished-at="2023-10-11T16:27:17 BDT" duration-ms="9451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MoblieNumberFieldCheck -->
+        <test-method signature="CountryFiledCheck()[pri:3, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:27:17 BDT" name="CountryFiledCheck" finished-at="2023-10-11T16:27:22 BDT" duration-ms="5298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CountryFiledCheck -->
+        <test-method signature="StateFieldCheck()[pri:4, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:27:22 BDT" name="StateFieldCheck" finished-at="2023-10-11T16:27:27 BDT" duration-ms="4226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StateFieldCheck -->
+        <test-method signature="EducationFiled()[pri:5, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:27:27 BDT" name="EducationFiled" finished-at="2023-10-11T16:27:33 BDT" duration-ms="6239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EducationFiled -->
+        <test-method signature="LinkedinField()[pri:6, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:27:33 BDT" name="LinkedinField" finished-at="2023-10-11T16:27:46 BDT" duration-ms="12766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkedinField -->
+        <test-method signature="ApplyReason()[pri:7, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:27:46 BDT" name="ApplyReason" finished-at="2023-10-11T16:27:56 BDT" duration-ms="10335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplyReason -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:AutomationLazada.tests.ApplicationPageTests@2657d4dd]" started-at="2023-10-11T16:27:56 BDT" name="afterClass" finished-at="2023-10-11T16:27:56 BDT" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- AutomationLazada.tests.ApplicationPageTests -->
+    </test> <!-- Application Page Tests -->
+  </suite> <!-- Lazada Automation -->
+</testng-results>
